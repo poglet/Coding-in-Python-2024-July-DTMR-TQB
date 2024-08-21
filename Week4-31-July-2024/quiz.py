@@ -119,3 +119,9 @@ my_list_2 = []
 for v in my_list_1:
     my_list_2.insert(0,v)
 print(my_list_2)
+
+list = ['cat','rat','bird','dog','elephant']
+print(list[0:4])
+print(list[2:4])
+
+list(5)
